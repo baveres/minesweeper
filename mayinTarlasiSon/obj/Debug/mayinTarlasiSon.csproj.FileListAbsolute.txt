@@ -1,0 +1,11 @@
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.csproj.AssemblyReference.cache
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.Form1.resources
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.Properties.Resources.resources
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.csproj.GenerateResource.cache
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.csproj.CoreCompileInputs.cache
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\bin\Debug\mayinTarlasiSon.exe.config
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\bin\Debug\mayinTarlasiSon.exe
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\bin\Debug\mayinTarlasiSon.pdb
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.exe
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.pdb
+C:\Users\eserb\source\repos\mayinTarlasiSon\mayinTarlasiSon\obj\Debug\mayinTarlasiSon.Giris.resources
