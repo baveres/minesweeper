@@ -1,0 +1,85 @@
+# ----------------------------
+# Build klasörleri
+# ----------------------------
+[Bb]in/
+[Oo]bj/
+
+# ----------------------------
+# Visual Studio kullanıcı dosyaları
+# ----------------------------
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.dbmdl
+
+# ----------------------------
+# Visual Studio klasörleri
+# ----------------------------
+.vs/
+*.ncb
+*.sdf
+*.cache
+*.pdb
+ipch/
+*.opensdf
+
+# ----------------------------
+# .NET ve NuGet ile ilgili
+# ----------------------------
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# ----------------------------
+# Test çıktıları
+# ----------------------------
+TestResults/
+*.coverage
+*.coveragexml
+*.vsp
+*.vspx
+*.psess
+
+# ----------------------------
+# Log ve geçici dosyalar
+# ----------------------------
+*.log
+*.tmp
+*.bak
+*.old
+
+# ----------------------------
+# Rider ve ReSharper
+# ----------------------------
+.idea/
+*.DotSettings.user
+_ReSharper*/
+*.resharper.user
+
+# ----------------------------
+# VS Code
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# Windows sistem dosyaları
+# ----------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ----------------------------
+# Diğer
+# ----------------------------
+*.DS_Store
+*.swp
+*.orig
+*.sln.ide
+*.lnk
